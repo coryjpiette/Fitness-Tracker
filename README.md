@@ -37,4 +37,9 @@ A demo of the startup is shown below:
 
 ![Alt text](https://github.com/coryjpiette/Fitness-Tracker/blob/main/Images/fitness_tracker.gif)
 
-[Deployed Heroku App](https://shrouded-shore-00767.herokuapp.com/?id=614d2c9ad786b60016df9534)
+
+
+
+## Deployed Application
+
+The deployed application can be found [here](https://shrouded-shore-00767.herokuapp.com/?id=614d2c9ad786b60016df9534).
