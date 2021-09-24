@@ -43,3 +43,7 @@ A demo of the startup is shown below:
 ### Deployed Application
 
 The deployed application can be found [here](https://shrouded-shore-00767.herokuapp.com/?id=614d2c9ad786b60016df9534).
+
+A screenshot of the deployed application is shown below:
+
+![image](https://user-images.githubusercontent.com/60293516/134709316-690b5a74-657f-46fa-ae31-68747fb023ea.png)
