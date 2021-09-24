@@ -22,11 +22,17 @@ If the exercise is a cardio exercise, I should be able to track my distance trav
 
 ### Required Technology
 
-- **Node.js** - Node.js must be installed on your machine to run this application. If you do not have this software package, you can download it [here](https://nodejs.org/en/) to download the application.
+- **Node.js** - You must install Node.js on your machine to run this application. If you do not have this software package, you can download it [here](https://nodejs.org/en/) to download the application.
 
 
-- **MongoDB** - You must also install MongoDB to enable your your local drive to access the back-end data for this application. You can download MongoDB [here](https://www.mongodb.com/try/download/community).
+- **MongoDB** - You must also install MongoDB to enable your local drive to access the back-end data for this application. You can download MongoDB [here](https://www.mongodb.com/try/download/community).
 
+### Starting Application Demo
 
+After installing the required software, run `mongo` to confirm that the workout database is present. 
+Next, open an integrated terminal in serve.js and run the command '`npm run seed` to seed the data.
+Lastly, run the command `npm run start` to launch the application on your local 3000 drive.
+
+A demo of the startup is shown below:
 
 [Deployed Heroku App](https://shrouded-shore-00767.herokuapp.com/?id=614d2c9ad786b60016df9534)
