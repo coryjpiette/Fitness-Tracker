@@ -26,11 +26,16 @@ nav {
 }
 
 a,
-a:hover,
 a:active,
 a:visited {
-  text-decoration: none;
-  color: inherit;
+color: inherit;
+font-size: 18pt;
+
+ 
+}
+a:hover{
+  color: rgb(69, 69, 163);
+  text-decoration: underline;
 }
 
 header {
