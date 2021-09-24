@@ -40,6 +40,6 @@ A demo of the startup is shown below:
 
 
 
-## Deployed Application
+### Deployed Application
 
 The deployed application can be found [here](https://shrouded-shore-00767.herokuapp.com/?id=614d2c9ad786b60016df9534).
