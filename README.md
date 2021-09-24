@@ -35,6 +35,6 @@ Lastly, run the command `npm run start` to launch the application on your local 
 
 A demo of the startup is shown below:
 
-https://github.com/coryjpiette/Fitness-Tracker/blob/main/Images/ftness_tracker.gif
+[Alt_text!]https://github.com/coryjpiette/Fitness-Tracker/blob/main/Images/ftness_tracker.gif
 
 [Deployed Heroku App](https://shrouded-shore-00767.herokuapp.com/?id=614d2c9ad786b60016df9534)
